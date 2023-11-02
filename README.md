@@ -2,6 +2,22 @@
 
 <h2 align="center">GithubReleaseDownloader</h2>
 
+<p align="center">
+    <a href="https://www.nuget.org/packages/GithubReleaseDownloader">
+        <img src="https://img.shields.io/nuget/v/GithubReleaseDownloader?color=1f72de" alt="Nuget">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-.NET%20Standard%202.0-blueviolet?color=1f72de&label=NET" alt="">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/license/russkyc/github-release-downloader" alt="">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/issues/russkyc/github-release-downloader" alt="">
+    </a>
+
+</p>
+
 <p style="text-align: justify">
 If you just want to download assets with very minimal code, we got you!
 All you need to know is the public repository name and owner, and you can download release
@@ -89,6 +105,10 @@ public static class Program
 }
 ```
 
+## Installation
+
+Nuget Cli `dotnet add package GithubReleaseDownloader --version 1.0.0`
+Nuget Link https://www.nuget.org/packages/GithubReleaseDownloader/1.0.0 
 ## Available Methods
 
 
