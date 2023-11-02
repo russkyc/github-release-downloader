@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CAE29C7E-1602-4460-8F4E-F85C352B99C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubReleaseDownloader", "GithubReleaseDownloader\GithubReleaseDownloader.csproj", "{9596CAEF-37A2-421A-A83E-9D343659C6BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{917CE6C4-178D-4994-BE96-EB68DBA2253F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5CFAC27F-65A5-493E-B9EA-4241293607C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{83AA9F73-C46B-48CE-816F-CD22D786FE5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9596CAEF-37A2-421A-A83E-9D343659C6BB} = {CAE29C7E-1602-4460-8F4E-F85C352B99C9}
+		{83AA9F73-C46B-48CE-816F-CD22D786FE5F} = {917CE6C4-178D-4994-BE96-EB68DBA2253F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9596CAEF-37A2-421A-A83E-9D343659C6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9596CAEF-37A2-421A-A83E-9D343659C6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9596CAEF-37A2-421A-A83E-9D343659C6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9596CAEF-37A2-421A-A83E-9D343659C6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AA9F73-C46B-48CE-816F-CD22D786FE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AA9F73-C46B-48CE-816F-CD22D786FE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AA9F73-C46B-48CE-816F-CD22D786FE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AA9F73-C46B-48CE-816F-CD22D786FE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
