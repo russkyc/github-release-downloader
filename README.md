@@ -1,4 +1,4 @@
-<img src=".github/resources/images/github-release-downloader-banner.png" style="width: 100%;" />
+<img src=".github/resources/images/github-release-downloader.png" style="width: 100%;" />
 
 <h2 align="center">GithubReleaseDownloader</h2>
 
